@@ -99,6 +99,3 @@ This template serves as a starting point for your own data processing needs. Fee
 
 ---
 
-## License
-
-This project is provided "as-is" without any warranty. Use and modify at your own discretion.
