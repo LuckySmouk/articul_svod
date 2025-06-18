@@ -1,0 +1,1 @@
+# articul_svod
